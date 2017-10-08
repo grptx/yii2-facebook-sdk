@@ -11,10 +11,9 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=5.5.0",
         "yiisoft/yii2": "*",
-        "facebook/php-sdk-v4": "4.0.*",
-        "guzzle/guzzle": "3.9.*"
+        "facebook/graph-sdk": "5.*"
     },
     "autoload": {
         "psr-4": {

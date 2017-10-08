@@ -1,6 +1,6 @@
 <?php
 
-namespace garyrutland\facebook;
+namespace grptx\facebook;
 
 use Yii;
 use yii\base\Component;
